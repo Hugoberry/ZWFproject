@@ -1,0 +1,147 @@
+knowledge graph
+YAGO
+Freebase
+DBPedia
+WordNet
+Wikidata
+BabelNet
+Probase
+ConceptNet
+linking open data
+linked open data
+semantic web
+linked data
+multi-relational data
+common sense knowledge
+multilingual knowledge
+semantic relationship
+domain knowledge
+knowledge representation
+entity descriptions
+ontology language
+ontology engineering
+ontology development
+ontology evolution
+ontology extraction
+ontology versioning
+ontology editor
+ontology representation
+ontology modeling
+ontology creation
+ontology construction
+concept ontology
+Protege
+knowledge ontology
+Event Ontology
+semantic network
+RDF
+resource description framework
+OWL2
+OWL
+Web Ontology Language
+knowledge embedding
+entity embedding
+relation embedding
+Knowledge Extraction
+extract Knowledge
+knowledge capture
+capture knowledge
+knowledge construction
+construct knowledge
+Open IE
+open information extraction
+mention detection
+entity typing
+typing entity
+information extraction
+extract information
+Entity Detection
+detect entity
+Entity Discovery
+Discovery entity
+Named Entity Recognition
+NER
+entity extraction
+extract entity
+entity recognition
+recognition entity
+Synonym construction
+construct Synonym
+Synonym Identification
+Identification Synonym
+attribute extraction
+extract attribute
+relation extraction
+extract relation
+relationship extraction
+extract relationship
+relation recognition
+recognition relation
+relation pattern
+relation classification
+classify relations
+semantic relation learning
+event extraction
+extract event
+event recognition
+recognition event
+event identificaton 
+identificaton event
+event detection
+detect event
+deepdive
+knowledge fusion
+Ontology fusion
+entity disambiguation
+Co-reference Resolution
+object alignment
+alignment object
+entity matching
+match entity
+entity synonyms
+synonyms entity
+ontology mapping
+ontology alignment
+entity linking
+ontology matching
+schema matching
+instance matching
+schema mapping
+entity resolution
+entity mapping
+mapping entity
+entity  alignment
+semantic integration
+integrate semantic
+inconsistent ontology
+ontology interoperability
+heterogenous ontology
+knowledge linkage
+Record Linkage
+link record
+taxonomy alignment
+alignment taxonomy
+semantic annotation
+annotation semantic
+ontology reasoning
+ontology inference
+knowledge reasoning
+reasoning knowledge
+knowledge inference
+inferent knowledge
+link prediction
+relation prediction
+knowledge base completion
+graph pattern matching
+Neo4j
+graph database
+graph query language
+SPARQL
+Cypher
+graph query
+subgraph matching
+Question Answering AND knowledge
+Q.AND.A AND knowledge
+KBQA
+knowledge recommendation
+semantic query AND knowledge

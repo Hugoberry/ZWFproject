@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f65accc5-f312-4551-8e45-d544dc0ab3ed" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$blpop_demo.coverage" NAME="blpop_demo Coverage Results" MODIFIED="1547791439970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_tools" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$Twisted_Trial_in_ip_test_py.coverage" NAME="Twisted Trial in ip_test.py Coverage Results" MODIFIED="1547694809191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_tools" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$deal_cookie.coverage" NAME="deal_cookie Coverage Results" MODIFIED="1545730879509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../EUIPO/TEST" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$main.coverage" NAME="main Coverage Results" MODIFIED="1546414042793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$keyword_to_redis.coverage" NAME="keyword_to_redis Coverage Results" MODIFIED="1548385672865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_tools" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$main_img.coverage" NAME="main_img Coverage Results" MODIFIED="1548385660300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$pt_demo.coverage" NAME="pt_demo Coverage Results" MODIFIED="1558343188941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_tools" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$zlib_demo.coverage" NAME="zlib_demo Coverage Results" MODIFIED="1546484050356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_tools" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$get_cookie.coverage" NAME="get_cookie Coverage Results" MODIFIED="1545730850544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../EUIPO/TEST" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$emoji.coverage" NAME="emoji Coverage Results" MODIFIED="1547881666544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_tools" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$get_ip.coverage" NAME="get_ip Coverage Results" MODIFIED="1545709475281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_tools" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$main_relation.coverage" NAME="main_relation Coverage Results" MODIFIED="1547782526167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EUIPO_REDIS$req.coverage" NAME="req Coverage Results" MODIFIED="1558340351047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_tools" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-498121337">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="19" />
+          <entry key="py" value="1185" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="19" />
+          <entry key="Python" value="1185" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="1" />
+          <entry key="py" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="req.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_tools/req.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pt_demo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_tools/pt_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ipo_communications.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_communications.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+              <folding>
+                <element signature="e#24#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/my_tools/get_ip.py" />
+        <option value="$PROJECT_DIR$/my_tools/ip_test.py" />
+        <option value="$PROJECT_DIR$/my_tools/zlib_demo.py" />
+        <option value="$PROJECT_DIR$/my_tools/decode_pdf.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/pipelines.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_communicatins.py" />
+        <option value="$PROJECT_DIR$/my_tools/user_test.py" />
+        <option value="$PROJECT_DIR$/main_relation.py" />
+        <option value="$PROJECT_DIR$/my_tools/blpop_demo.py" />
+        <option value="$PROJECT_DIR$/my_tools/emoji.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/items.py" />
+        <option value="$PROJECT_DIR$/my_tools/test_img.txt" />
+        <option value="$PROJECT_DIR$/my_tools/keyword_to_redis.py" />
+        <option value="$PROJECT_DIR$/main_img.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/spiders/list_ipo/ipo_list.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_document.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_img.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_relation.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_timeline.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_list.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_communications.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/middlewares.py" />
+        <option value="$PROJECT_DIR$/EUIPO_REDIS/settings.py" />
+        <option value="$PROJECT_DIR$/my_tools/req.py" />
+        <option value="$PROJECT_DIR$/my_tools/pt_demo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2721" />
+    <option name="y" value="-13" />
+    <option name="width" value="1040" />
+    <option name="height" value="1046" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="EUIPO_REDIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EUIPO_REDIS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUIPO_REDIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EUIPO_REDIS" type="462c0819:PsiDirectoryNode" />
+              <item name="EUIPO_IMG" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUIPO_REDIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EUIPO_REDIS" type="462c0819:PsiDirectoryNode" />
+              <item name="EUIPO_REDIS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUIPO_REDIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EUIPO_REDIS" type="462c0819:PsiDirectoryNode" />
+              <item name="EUIPO_REDIS" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EUIPO_REDIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EUIPO_REDIS" type="462c0819:PsiDirectoryNode" />
+              <item name="my_tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/EUIPO_REDIS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ZWFpro\EUIPO\EUIPO_REDIS\EUIPO_REDIS\spiders" />
+      <recent name="E:\ZWFpro\EUIPO\EUIPO_REDIS\EUIPO_REDIS\spiders\list_ipo" />
+      <recent name="E:\ZWFpro\EUIPO\EUIPO_REDIS\my_tools" />
+      <recent name="E:\ZWFpro\EUIPO\EUIPO_REDIS\EUIPO_REDIS" />
+      <recent name="$PROJECT_DIR$/my_tools" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ZWFpro\EUIPO\EUIPO_REDIS\my_tools" />
+      <recent name="E:\ZWFpro\EUIPO\EUIPO_REDIS" />
+      <recent name="E:\ZWFpro\EUIPO\EUIPO_REDIS\EUIPO_REDIS" />
+      <recent name="E:\ZWFpro\EUIPO\EUIPO_REDIS\EUIPO_REDIS\spiders" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pt_demo">
+    <configuration name="emoji" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EUIPO_REDIS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_tools/emoji.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="keyword_to_redis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EUIPO_REDIS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_tools/keyword_to_redis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main_img" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EUIPO_REDIS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pt_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EUIPO_REDIS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_tools/pt_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="req" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EUIPO_REDIS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_tools/req.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.keyword_to_redis" />
+      <item itemvalue="Python.emoji" />
+      <item itemvalue="Python.main_img" />
+      <item itemvalue="Python.pt_demo" />
+      <item itemvalue="Python.req" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pt_demo" />
+        <item itemvalue="Python.req" />
+        <item itemvalue="Python.keyword_to_redis" />
+        <item itemvalue="Python.main_img" />
+        <item itemvalue="Python.emoji" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f65accc5-f312-4551-8e45-d544dc0ab3ed" name="Default" comment="" />
+      <created>1545707681543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545707681543</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Twisted_Trial_in_ip_test_py - 2018.12.25 at 11h 46m 11s.xml">
+      <configuration name="Twisted Trial in ip_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_ip_test_py - 2018.12.25 at 11h 47m 56s.xml">
+      <configuration name="Twisted Trial in ip_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_ip_test_py - 2018.12.25 at 11h 48m 39s.xml">
+      <configuration name="Twisted Trial in ip_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_ip_test_py - 2019.01.17 at 11h 13m 01s.xml">
+      <configuration name="Twisted Trial in ip_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_ip_test_py - 2019.01.17 at 11h 13m 32s.xml">
+      <configuration name="Twisted Trial in ip_test.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.07782516" side_tool="true" weight="0.2792208" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.18398269" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32792208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14232409" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.9221748" weight="0.38852814" />
+      <window_info anchor="bottom" id="Thumbnails" order="7" weight="0.32900432" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32792208" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_img.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/my_tools/req.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="54" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="text.raw" />
+        <watch expression="text.raw" />
+        <watch expression="__py_debug_temp_var_1922102365" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/my_tools/zlib_demo.py" />
+    <entry file="file://$PROJECT_DIR$/my_tools/user_test.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/scrapy_redis/spiders.py" />
+    <entry file="file://$PROJECT_DIR$/my_tools/decode_pdf.py" />
+    <entry file="file://$PROJECT_DIR$/my_tools/get_ip.py" />
+    <entry file="file://$PROJECT_DIR$/my_tools/_trial_temp/test.log" />
+    <entry file="file://$PROJECT_DIR$/EUIPO_REDIS/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_relation.py" />
+    <entry file="file://$PROJECT_DIR$/my_tools/哈士奇/005HzdXrgy1fkzbojeynxj30k00k0goe.jpg" />
+    <entry file="file://C:/dev/Python/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24605">
+          <caret line="730" selection-start-line="730" selection-end-line="730" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_tools/哈士奇/005HzdXrgy1fkzbof5q9fj30k00k00vg.jpg" />
+    <entry file="file://$PROJECT_DIR$/my_tools/哈士奇/005HzdXrgy1fkzbog505vj30k00k076a.jpg" />
+    <entry file="file://$PROJECT_DIR$/my_tools/emoji.py" />
+    <entry file="file://$PROJECT_DIR$/EUIPO_REDIS/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="88" column="12" selection-start-line="88" selection-start-column="4" selection-end-line="88" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_IMG/000000003.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_IMG/000000004.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_IMG/000000005.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_IMG/000000422.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_IMG/000000357.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_IMG/000000349.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_document.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_relation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_timeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_document.py" />
+    <entry file="file://$PROJECT_DIR$/main_img.py" />
+    <entry file="file://$PROJECT_DIR$/EUIPO_IMG/000000002.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_tools/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_tools/test_img.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_tools/blpop_demo.py" />
+    <entry file="file://$PROJECT_DIR$/my_tools/EUIPO_CODE.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_tools/EUIPO_IMG_ID.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="837">
+          <caret line="9394" column="24" lean-forward="true" selection-start-line="9394" selection-start-column="24" selection-end-line="9394" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_tools/ghostdriver.log" />
+    <entry file="file://$PROJECT_DIR$/my_tools/ip_test.py" />
+    <entry file="file://$PROJECT_DIR$/EUIPO_REDIS/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <element signature="e#168#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_REDIS/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/Python/Lib/site-packages/selenium/webdriver/common/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2407">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_tools/DATA_TEXT.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_IMG/000000010.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_IMG/000000006.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_tools/keyword_to_redis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/QDS_Test/utils/logincookie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144" />
+      </provider>
+    </entry>
+    <entry file="file://D:/QDS_Test/utils/mytestcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_tools/req.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_relation.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-435">
+          <caret column="19" selection-start-column="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/Python/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_tools/pt_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EUIPO_REDIS/spiders/ipo_communications.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="e#24#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

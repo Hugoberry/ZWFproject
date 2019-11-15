@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8486ea2a-171d-40d2-aa0a-f507ac22ace0" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_tradetest_TradeTest_test_trade_13.coverage" NAME="Twisted Trial for tradetest.TradeTest.test_trade_13 Coverage Results" MODIFIED="1557891460112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_cxzctest_CxZcTest_test_TrademarkMonitor.coverage" NAME="Twisted Trial for cxzctest.CxZcTest.test_TrademarkMonitor Coverage Results" MODIFIED="1555493635934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_cxzctest_CxZcTest_test_free_search.coverage" NAME="Twisted Trial for cxzctest.CxZcTest.test_free_search Coverage Results" MODIFIED="1555493736695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_hhr_order_1.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_hhr_order_1 Coverage Results" MODIFIED="1557729207314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_bidatatest_BITest_test_data_2.coverage" NAME="Twisted Trial for bidatatest.BITest.test_data_2 Coverage Results" MODIFIED="1555488260501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_znzztest_ZnZzTest_test_znzz_9.coverage" NAME="Twisted Trial for znzztest.ZnZzTest.test_znzz_9 Coverage Results" MODIFIED="1555661361855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_znzztest_ZnZzTest_test_znzz_6.coverage" NAME="Twisted Trial for znzztest.ZnZzTest.test_znzz_6 Coverage Results" MODIFIED="1555661626840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_sbnumtest_SbNumTest_test_number3.coverage" NAME="Twisted Trial for sbnumtest.SbNumTest.test_number3 Coverage Results" MODIFIED="1555658103624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_uploadtest_UpLoadTest_test_hhr_order_pic.coverage" NAME="Twisted Trial for uploadtest.UpLoadTest.test_hhr_order_pic Coverage Results" MODIFIED="1557822509801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_partner_clue_2.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_partner_clue_2 Coverage Results" MODIFIED="1557728157332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_cluetest_ClueTest_test_clue3.coverage" NAME="Twisted Trial for cluetest.ClueTest.test_clue3 Coverage Results" MODIFIED="1557731627368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_fmzltest_FmZlTest_test_fmzlbz_3.coverage" NAME="Twisted Trial for fmzltest.FmZlTest.test_fmzlbz_3 Coverage Results" MODIFIED="1557131201849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_full_business_3.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_full_business_3 Coverage Results" MODIFIED="1557730749537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hometest_HomeTest_test_patent_cancel.coverage" NAME="Twisted Trial for hometest.HomeTest.test_patent_cancel Coverage Results" MODIFIED="1555657106970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_tradetest_TradeTest_test_trade_2.coverage" NAME="Twisted Trial for tradetest.TradeTest.test_trade_2 Coverage Results" MODIFIED="1557995395433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hometest_HomeTest_test_address.coverage" NAME="Twisted Trial for hometest.HomeTest.test_address Coverage Results" MODIFIED="1555654331416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_hhr_historical_3.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_hhr_historical_3 Coverage Results" MODIFIED="1557730100736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$create_data.coverage" NAME="create_data Coverage Results" MODIFIED="1557216815199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/log/aaa" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_zlywtest_ZlYwTest_test_guibz_3.coverage" NAME="Twisted Trial for zlywtest.ZlYwTest.test_guibz_3 Coverage Results" MODIFIED="1555661024103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_znzztest_ZnZzTest_test_znzz_5.coverage" NAME="Twisted Trial for znzztest.ZnZzTest.test_znzz_5 Coverage Results" MODIFIED="1555661750020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_hhr_historical_2.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_hhr_historical_2 Coverage Results" MODIFIED="1557729891036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_full_business_1.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_full_business_1 Coverage Results" MODIFIED="1557730256429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_fmzltest_FmZlTest_test_fmzldb_1.coverage" NAME="Twisted Trial for fmzltest.FmZlTest.test_fmzldb_1 Coverage Results" MODIFIED="1557822352623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hwgstest_HwGsTest_test_hwgs_6.coverage" NAME="Twisted Trial for hwgstest.HwGsTest.test_hwgs_6 Coverage Results" MODIFIED="1555657621518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_mfsbtest_MfSbTest_test_PreliminaryPublicationQuery.coverage" NAME="Twisted Trial for mfsbtest.MfSbTest.test_PreliminaryPublicationQuery Coverage Results" MODIFIED="1557047112827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_mytestcase_MyTestCase.coverage" NAME="Twisted Trial for mytestcase.MyTestCase Coverage Results" MODIFIED="1556174956528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_mfsbtest_MfSbTest_test_PreliminaryPublicationDetails.coverage" NAME="Twisted Trial for mfsbtest.MfSbTest.test_PreliminaryPublicationDetails Coverage Results" MODIFIED="1556595274584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_payment_voucher.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_payment_voucher Coverage Results" MODIFIED="1557728900194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_hhr_nice_search.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_hhr_nice_search Coverage Results" MODIFIED="1557729043911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_mfsbtest_MfSbTest_test_PreliminaryPublicationExport.coverage" NAME="Twisted Trial for mfsbtest.MfSbTest.test_PreliminaryPublicationExport Coverage Results" MODIFIED="1556174862459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$runAllTestCases.coverage" NAME="runAllTestCases Coverage Results" MODIFIED="1556177159579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_tradetest_TradeTest_test_trade_4.coverage" NAME="Twisted Trial for tradetest.TradeTest.test_trade_4 Coverage Results" MODIFIED="1557308630123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_hhr_order_2.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_hhr_order_2 Coverage Results" MODIFIED="1557729323038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_full_business_2.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_full_business_2 Coverage Results" MODIFIED="1557730481321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_partner_clue_3.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_partner_clue_3 Coverage Results" MODIFIED="1557728445428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_sbnumtest_SbNumTest_test_number2.coverage" NAME="Twisted Trial for sbnumtest.SbNumTest.test_number2 Coverage Results" MODIFIED="1558073988497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_tradetest_TradeTest_test_trade_9.coverage" NAME="Twisted Trial for tradetest.TradeTest.test_trade_9 Coverage Results" MODIFIED="1557903097672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_tradetest_TradeTest_test_trade_10.coverage" NAME="Twisted Trial for tradetest.TradeTest.test_trade_10 Coverage Results" MODIFIED="1557890897230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_sbjktest_MonitorTest_test_monitor_1.coverage" NAME="Twisted Trial for sbjktest.MonitorTest.test_monitor_1 Coverage Results" MODIFIED="1558073442416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_sbxxtest_SbXxTest_test_sbbg.coverage" NAME="Twisted Trial for sbxxtest.SbXxTest.test_sbbg Coverage Results" MODIFIED="1556093257347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$cdata.coverage" NAME="cdata Coverage Results" MODIFIED="1555584735179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/log" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_mfsbtest_MfSbTest_test_special_search.coverage" NAME="Twisted Trial for mfsbtest.MfSbTest.test_special_search Coverage Results" MODIFIED="1557995293321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_CancelState.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_CancelState Coverage Results" MODIFIED="1557728845074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_indextest_IndexTest_test_perspective.coverage" NAME="Twisted Trial for indextest.IndexTest.test_perspective Coverage Results" MODIFIED="1556174793014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_bqywtest_BqYwTest_test_mszp.coverage" NAME="Twisted Trial for bqywtest.BqYwTest.test_mszp Coverage Results" MODIFIED="1557217169306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_partner_clue_4.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_partner_clue_4 Coverage Results" MODIFIED="1557728615526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hometest_HomeTest_test_batch_payment.coverage" NAME="Twisted Trial for hometest.HomeTest.test_batch_payment Coverage Results" MODIFIED="1555656059361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_partner_clue_1.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_partner_clue_1 Coverage Results" MODIFIED="1557731059981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_hhr_historical_1.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_hhr_historical_1 Coverage Results" MODIFIED="1557729794510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hometest_HomeTest_test_invoice.coverage" NAME="Twisted Trial for hometest.HomeTest.test_invoice Coverage Results" MODIFIED="1555917898202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_hhr_order_5.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_hhr_order_5 Coverage Results" MODIFIED="1557729617121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_bmkstest_BmKsTest_test_bmks.coverage" NAME="Twisted Trial for bmkstest.BmKsTest.test_bmks Coverage Results" MODIFIED="1555488441441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_znzztest_ZnZzTest_test_znzz_4.coverage" NAME="Twisted Trial for znzztest.ZnZzTest.test_znzz_4 Coverage Results" MODIFIED="1555661841998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_znzztest_ZnZzTest_test_znzz_7.coverage" NAME="Twisted Trial for znzztest.ZnZzTest.test_znzz_7 Coverage Results" MODIFIED="1555661528206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_bidatatest_BITest_test_data_1.coverage" NAME="Twisted Trial for bidatatest.BITest.test_data_1 Coverage Results" MODIFIED="1556101246065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_znzztest_ZnZzTest_test_znzz_1.coverage" NAME="Twisted Trial for znzztest.ZnZzTest.test_znzz_1 Coverage Results" MODIFIED="1555662089126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$bbb.coverage" NAME="bbb Coverage Results" MODIFIED="1556519255958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/log/testDir" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_calc_1.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_calc_1 Coverage Results" MODIFIED="1557730820803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_cxzctest_CxZcTest_test_ad.coverage" NAME="Twisted Trial for cxzctest.CxZcTest.test_ad Coverage Results" MODIFIED="1557822182358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_bqywtest_BqYwTest_test_msdj.coverage" NAME="Twisted Trial for bqywtest.BqYwTest.test_msdj Coverage Results" MODIFIED="1555488615711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_cxzctest_CxZcTest_test_TrademarkSearchBusiness.coverage" NAME="Twisted Trial for cxzctest.CxZcTest.test_TrademarkSearchBusiness Coverage Results" MODIFIED="1555493678927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_mfsbtest_MfSbTest_test_PreliminaryPublicationBusiness.coverage" NAME="Twisted Trial for mfsbtest.MfSbTest.test_PreliminaryPublicationBusiness Coverage Results" MODIFIED="1556092837240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_income_show.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_income_show Coverage Results" MODIFIED="1557729003075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_hhr_order_3.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_hhr_order_3 Coverage Results" MODIFIED="1557878885105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_calc_2.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_calc_2 Coverage Results" MODIFIED="1557730938522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_mfsbtest_MfSbTest_test_PreliminaryPublicationConditions.coverage" NAME="Twisted Trial for mfsbtest.MfSbTest.test_PreliminaryPublicationConditions Coverage Results" MODIFIED="1556093089723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hometest_HomeTest_test_official.coverage" NAME="Twisted Trial for hometest.HomeTest.test_official Coverage Results" MODIFIED="1555917970259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_znzztest_ZnZzTest_test_znzz_8.coverage" NAME="Twisted Trial for znzztest.ZnZzTest.test_znzz_8 Coverage Results" MODIFIED="1555661446276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_partner_modify.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_partner_modify Coverage Results" MODIFIED="1557729096510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_dbwytest_DbWyTest_test_dbwy.coverage" NAME="Twisted Trial for dbwytest.DbWyTest.test_dbwy Coverage Results" MODIFIED="1556186465320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_my_income.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_my_income Coverage Results" MODIFIED="1557728960870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_znzztest_ZnZzTest_test_znzz_2.coverage" NAME="Twisted Trial for znzztest.ZnZzTest.test_znzz_2 Coverage Results" MODIFIED="1555661999843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_znzztest_ZnZzTest_test_smart_nice_search.coverage" NAME="Twisted Trial for znzztest.ZnZzTest.test_smart_nice_search Coverage Results" MODIFIED="1555661213050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_partner_clue_5.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_partner_clue_5 Coverage Results" MODIFIED="1557728697310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$aa.coverage" NAME="aa Coverage Results" MODIFIED="1555552480691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/log" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_mfsbtest_MfSbTest_test_geography.coverage" NAME="Twisted Trial for mfsbtest.MfSbTest.test_geography Coverage Results" MODIFIED="1555657820840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_clue_cancel.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_clue_cancel Coverage Results" MODIFIED="1556169588123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$pandas111.coverage" NAME="pandas111 Coverage Results" MODIFIED="1557813909595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/log/aaa" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hometest_HomeTest_test_copyright_cancel.coverage" NAME="Twisted Trial for hometest.HomeTest.test_copyright_cancel Coverage Results" MODIFIED="1555657483278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_tradetest_TradeTest_test_trade_1.coverage" NAME="Twisted Trial for tradetest.TradeTest.test_trade_1 Coverage Results" MODIFIED="1557891185188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_hhrtest_HhrTest_test_hhr_order_4.coverage" NAME="Twisted Trial for hhrtest.HhrTest.test_hhr_order_4 Coverage Results" MODIFIED="1558073705582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_znzztest_ZnZzTest_test_znzz_3.coverage" NAME="Twisted Trial for znzztest.ZnZzTest.test_znzz_3 Coverage Results" MODIFIED="1555661917175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_tradetest_TradeTest_test_trade_6.coverage" NAME="Twisted Trial for tradetest.TradeTest.test_trade_6 Coverage Results" MODIFIED="1558074123927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_qtzltest_QtZlTest_test_zlxg_3.coverage" NAME="Twisted Trial for qtzltest.QtZlTest.test_zlxg_3 Coverage Results" MODIFIED="1555657892846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/QDS_Test$Twisted_Trial_for_cluetest_ClueTest_test_clue4.coverage" NAME="Twisted Trial for cluetest.ClueTest.test_clue4 Coverage Results" MODIFIED="1557731727494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tradetest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/case/tradetest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="505" selection-start-line="505" selection-end-line="505" />
+              <folding>
+                <element signature="e#15#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sbjktest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/sbjktest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="191" column="8" selection-start-line="191" selection-start-column="8" selection-end-line="191" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hhrtest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/hhrtest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="2388" column="21" selection-start-line="2388" selection-start-column="21" selection-end-line="2388" selection-end-column="21" />
+              <folding>
+                <element signature="e#15#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sbnumtest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/sbnumtest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-866">
+              <caret line="199" selection-start-line="199" selection-end-line="199" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>child</find>
+      <find>business_3</find>
+      <find>move_to</find>
+      <find>新版提示</find>
+      <find>switch_to</find>
+      <find>ActionChains</find>
+      <find>window</find>
+      <find>li</find>
+      <find>商标</find>
+      <find>筛选商标测试</find>
+      <find>_partner_clue_1</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/utils/datachoice.py" />
+        <option value="$PROJECT_DIR$/case/cxzctest.py" />
+        <option value="$PROJECT_DIR$/case/bmkstest.py" />
+        <option value="$PROJECT_DIR$/case/_trial_temp-1/aa.py" />
+        <option value="$PROJECT_DIR$/log/aa.py" />
+        <option value="$PROJECT_DIR$/log/cdata.py" />
+        <option value="$PROJECT_DIR$/log/mr_test.py" />
+        <option value="$PROJECT_DIR$/runAllTestCases.py" />
+        <option value="$PROJECT_DIR$/case/bqywtest.py" />
+        <option value="$PROJECT_DIR$/case/znzztest.py" />
+        <option value="$PROJECT_DIR$/case/hometest.py" />
+        <option value="$PROJECT_DIR$/log/testDir/aaaa.py" />
+        <option value="$PROJECT_DIR$/case/mfsbtest.py" />
+        <option value="$PROJECT_DIR$/case/bidatatest.py" />
+        <option value="$PROJECT_DIR$/log/testDir/bbb.py" />
+        <option value="$PROJECT_DIR$/utils/mytestcase.py" />
+        <option value="$PROJECT_DIR$/log/aaa/create_data.py" />
+        <option value="$PROJECT_DIR$/utils/logincookie.py" />
+        <option value="$PROJECT_DIR$/case/cluetest.py" />
+        <option value="$PROJECT_DIR$/log/aaa/pandas111.py" />
+        <option value="$PROJECT_DIR$/case/fmzltest.py" />
+        <option value="$PROJECT_DIR$/case/uploadtest.py" />
+        <option value="$PROJECT_DIR$/case/hhrtest.py" />
+        <option value="$PROJECT_DIR$/case/tradetest.py" />
+        <option value="$PROJECT_DIR$/case/sbjktest.py" />
+        <option value="$PROJECT_DIR$/case/sbnumtest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1040" />
+    <option name="height" value="1046" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="QDS_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QDS_Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QDS_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QDS_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QDS_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QDS_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QDS_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QDS_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QDS_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QDS_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+              <item name="aaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QDS_Test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QDS_Test" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Twisted Trial for tradetest.TradeTest.test_trade_6">
+    <configuration name="aa" type="PythonConfigurationType" factoryName="Python">
+      <module name="QDS_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/dev/Python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:/dev/Python/Scripts" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Twisted Trial for hhrtest.HhrTest.test_hhr_order_4" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <module name="QDS_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;hhrtest.HhrTest.test_hhr_order_4&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Twisted Trial for sbjktest.MonitorTest.test_monitor_1" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <module name="QDS_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;sbjktest.MonitorTest.test_monitor_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Twisted Trial for sbnumtest.SbNumTest.test_number2" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <module name="QDS_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;sbnumtest.SbNumTest.test_number2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Twisted Trial for tradetest.TradeTest.test_trade_2" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <module name="QDS_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tradetest.TradeTest.test_trade_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Twisted Trial for tradetest.TradeTest.test_trade_6" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <module name="QDS_Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tradetest.TradeTest.test_trade_6&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.aa" />
+      <item itemvalue="Python tests.Twisted Trial for tradetest.TradeTest.test_trade_2" />
+      <item itemvalue="Python tests.Twisted Trial for sbjktest.MonitorTest.test_monitor_1" />
+      <item itemvalue="Python tests.Twisted Trial for hhrtest.HhrTest.test_hhr_order_4" />
+      <item itemvalue="Python tests.Twisted Trial for sbnumtest.SbNumTest.test_number2" />
+      <item itemvalue="Python tests.Twisted Trial for tradetest.TradeTest.test_trade_6" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Twisted Trial for tradetest.TradeTest.test_trade_6" />
+        <item itemvalue="Python tests.Twisted Trial for sbnumtest.SbNumTest.test_number2" />
+        <item itemvalue="Python tests.Twisted Trial for hhrtest.HhrTest.test_hhr_order_4" />
+        <item itemvalue="Python tests.Twisted Trial for sbjktest.MonitorTest.test_monitor_1" />
+        <item itemvalue="Python tests.Twisted Trial for tradetest.TradeTest.test_trade_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8486ea2a-171d-40d2-aa0a-f507ac22ace0" name="Default" comment="" />
+      <created>1555290737247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555290737247</updated>
+      <workItem from="1555574168457" duration="488000" />
+      <workItem from="1555574695353" duration="789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Twisted_Trial_for_tradetest_TradeTest_test_trade_13 - 2019.05.15 at 11h 38m 13s.xml">
+      <configuration name="Twisted Trial for tradetest.TradeTest.test_trade_13" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_tradetest_TradeTest_test_trade_9 - 2019.05.15 at 11h 39m 27s.xml">
+      <configuration name="Twisted Trial for tradetest.TradeTest.test_trade_9" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_tradetest_TradeTest_test_trade_9 - 2019.05.15 at 14h 51m 36s.xml">
+      <configuration name="Twisted Trial for tradetest.TradeTest.test_trade_9" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_tradetest_TradeTest_test_trade_9 - 2019.05.15 at 14h 52m 47s.xml">
+      <configuration name="Twisted Trial for tradetest.TradeTest.test_trade_9" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_mfsbtest_MfSbTest_test_special_search - 2019.05.16 at 16h 28m 57s.xml">
+      <configuration name="Twisted Trial for mfsbtest.MfSbTest.test_special_search" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_tradetest_TradeTest_test_trade_2 - 2019.05.16 at 16h 30m 41s.xml">
+      <configuration name="Twisted Trial for tradetest.TradeTest.test_trade_2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_sbjktest_MonitorTest_test_monitor_1 - 2019.05.17 at 14h 13m 37s.xml">
+      <configuration name="Twisted Trial for sbjktest.MonitorTest.test_monitor_1" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_hhrtest_HhrTest_test_hhr_order_4 - 2019.05.17 at 14h 16m 35s.xml">
+      <configuration name="Twisted Trial for hhrtest.HhrTest.test_hhr_order_4" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_sbnumtest_SbNumTest_test_number2 - 2019.05.17 at 14h 20m 46s.xml">
+      <configuration name="Twisted Trial for sbnumtest.SbNumTest.test_number2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_for_tradetest_TradeTest_test_trade_6 - 2019.05.17 at 14h 23m 27s.xml">
+      <configuration name="Twisted Trial for tradetest.TradeTest.test_trade_6" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1277000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33982685" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32792208" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.102878466" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3625541" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47619048" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32897604" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1401919" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36038962" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hometest.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hometest.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hwgstest.py</url>
+          <line>763</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/mfsbtest.py</url>
+          <line>558</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/qtzltest.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/qtzltest.py</url>
+          <line>212</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/tradetest.py</url>
+          <line>642</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/znzztest.py</url>
+          <line>1566</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>2839</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hometest.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hometest.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>1968</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>1182</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>1183</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>1184</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/mfsbtest.py</url>
+          <line>286</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>141</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/mfsbtest.py</url>
+          <line>307</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/sbxxtest.py</url>
+          <line>263</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/bidatatest.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>2809</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>541</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>534</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/dbwytest.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>2664</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>522</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/log/aaa/create_data.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>2432</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/tradetest.py</url>
+          <line>445</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>2476</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>2462</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>2463</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>2601</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>2594</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>2598</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/cxzctest.py</url>
+          <line>381</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/fmzltest.py</url>
+          <line>227</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/mfsbtest.py</url>
+          <line>687</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/tradetest.py</url>
+          <line>355</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/sbjktest.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/hhrtest.py</url>
+          <line>744</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/sbnumtest.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/case/tradetest.py</url>
+          <line>505</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="163" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/log/output" />
+    <entry file="file://$PROJECT_DIR$/log/aa.txt" />
+    <entry file="file://$PROJECT_DIR$/utils/screenshort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/hwgstest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1057">
+          <caret line="763" selection-start-line="763" selection-end-line="763" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/qtzltest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-564">
+          <caret line="212" selection-start-line="212" selection-end-line="212" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/Python/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/hometest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3654">
+          <caret line="132" column="16" selection-start-line="132" selection-start-column="16" selection-end-line="132" selection-end-column="16" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/znzztest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18705">
+          <caret line="656" column="16" selection-start-line="656" selection-start-column="16" selection-end-line="656" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/log.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/zlywtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17980">
+          <caret line="626" selection-start-line="626" selection-end-line="626" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/sbxxtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7366">
+          <caret line="263" selection-start-line="263" selection-end-line="263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/Python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1384">
+          <caret line="309" column="45" selection-start-line="309" selection-start-column="45" selection-end-line="309" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/bidatatest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/Python/Lib/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="258" selection-start-line="258" selection-end-line="258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/Python/Lib/site-packages/selenium/webdriver/remote/switch_to.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/Python/Lib/site-packages/selenium/webdriver/common/action_chains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runAllTestCases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/indextest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5133" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/HTMLTestReportCN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3324">
+          <caret line="1082" column="58" selection-start-line="1082" selection-start-column="58" selection-end-line="1082" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/dbwytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1363">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/mr_test.py" />
+    <entry file="file://$PROJECT_DIR$/log/cdata.py" />
+    <entry file="file://$PROJECT_DIR$/log/test.txt" />
+    <entry file="file://$PROJECT_DIR$/log/testDir/aaaa.py" />
+    <entry file="file://$PROJECT_DIR$/log/testDir/bbb.py" />
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/readconfig.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/pyselenium.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/numberfilter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/mytestcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/dev/Python/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="340" column="28" selection-start-line="340" selection-start-column="28" selection-end-line="340" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/aaa/a_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/aaa/create_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/bqywtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2019-05-07.log">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2019-05-08.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2019-05-06.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/aaa/pandas111.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/cluetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="138" column="22" lean-forward="true" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/uploadtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/cxzctest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11020">
+          <caret line="389" selection-start-line="389" selection-end-line="389" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/logincookie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="1162" column="4" selection-start-line="1162" selection-start-column="4" selection-end-line="1162" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/fmzltest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="937">
+          <caret line="255" column="21" selection-start-line="255" selection-start-column="21" selection-end-line="255" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/QDS_company/case/tradetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="97" column="25" selection-start-line="18" selection-start-column="8" selection-end-line="97" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/mfsbtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13586">
+          <caret line="228" selection-start-line="228" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/2019-05-05.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/sbjktest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="191" column="8" selection-start-line="191" selection-start-column="8" selection-end-line="191" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/hhrtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="2388" column="21" selection-start-line="2388" selection-start-column="21" selection-end-line="2388" selection-end-column="21" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/sbnumtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-866">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/tradetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="505" selection-start-line="505" selection-end-line="505" />
+          <folding>
+            <element signature="e#15#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
